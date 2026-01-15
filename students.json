@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "+880 1712-123456",
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "phone": "+880 1912-123456",
+        "status": "On Leave"
+    },
+    {
+        "id": 3,
+        "name": "Md Tufsirul Miraj",
+        "email": "mdtufsirulmiraj@gmail.com",
+        "phone": "+8801768519414",
+        "status": "Active"
+    },
+    {
+        "id": 4,
+        "name": "Miraj",
+        "email": "test@example.com",
+        "phone": "+8801768519414",
+        "status": "Active"
+    },
+    {
+        "id": 5,
+        "name": "Md Tufsirul Miraj",
+        "email": "test@gmail.com",
+        "phone": "+8801768519414",
+        "status": "Inactive"
+    },
+    {
+        "id": 6,
+        "name": "Md Tufsirul Miraj",
+        "email": "mdtufsirulmiraj@gmail.com",
+        "phone": "+8801768519414",
+        "status": "Graduated"
+    }
+]
